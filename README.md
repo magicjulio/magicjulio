@@ -8,7 +8,6 @@
 - 📫 How to reach me: julius@grossero.de
 - 😄 Pronouns: he /him
 - ⚡ Fun fact: i automated my girlfriend with a whatsapp python bot
--->
 <i>
 
   <h2>Python</h2>
