@@ -1,4 +1,11 @@
+<html>
+<head>
+<link href='https://fonts.googleapis.com/css?family=Impact' rel='stylesheet'>
+</head>
+<body>
 ### Hello there
+
+
 <link rel="stylesheet" type="text/css" href="style.css">
 <p>
 Julius Iam a Philosopher/Hacker/Writer/Programmer/Magican/WebDev/Nihilist
@@ -31,3 +38,5 @@ Sie wird von vielen genutzt und nie verflucht.</br>
     
 by ChatGPT
 </i>
+</body>
+</html>
