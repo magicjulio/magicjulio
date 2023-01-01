@@ -1,5 +1,5 @@
 ### Hello there
-<p style="font-family: Impact;">
+<p style="font-family: Georgia;">
 Julius Iam a Philosopher/Hacker/Writer/Programmer/Magican/WebDev/Nihilist
 </p>
 
