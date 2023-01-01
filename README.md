@@ -1,14 +1,11 @@
 <html>
-<head>
-  <title>YEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEET</title>
-</head>
 <body>
-### Hello there
+  <h1>Hello there</h1>
 
 
 
 <p>
-Julius Iam a Philosopher/Hacker/Writer/Programmer/Magican/WebDev/Nihilist
+  <i><strong>hilosopher/Hacker/Writer/Programmer/Magican/WebDev/Nihilist</strong></i>
 </p>
 
 
