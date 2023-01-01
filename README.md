@@ -1,16 +1,36 @@
-### Hi there 👋
+### Hello there
 
-<!--
-**magicjulio/magicjulio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔭 I’m currently working on some Python Project
+- 🌱 I’m currently learning Ethical hacking
+- 💬 Ask me about python
+- 📫 How to reach me: julius@grossero.de
+- 😄 Pronouns: he /him
+- ⚡ Fun fact: i automated my girlfriend with a whatsapp python bot
 -->
+
+##<i> Python
+
+Python, oh Python,
+A language so fine,
+With its simple syntax,
+It's a joy to define.
+
+Its libraries and modules,
+So vast and so grand,
+Allow me to build,
+With just a single command.
+
+From web development,
+To data analysis so sweet,
+Python can do it all,
+With its power complete.
+
+So here's to Python,
+The language of kings,
+It helps me to code,
+And do all sorts of things.
+
+by ChatGPT
+</i>
