@@ -10,21 +10,21 @@
 - ⚡ Fun fact: i automated my girlfriend with a whatsapp python bot
 -->
 <i>
-  <center>
+
   <h2>Python</h2>
   
-    Python, die Sprache der Könige,</br>
-    Verarbeitet Daten schnell und ohne Widerstände.</br>
+Python, die Sprache der Könige,</br>
+Verarbeitet Daten schnell und ohne Widerstände.</br>
     
-    Mit Python lassen sich Webseiten bauen,</br>
-    Apps entwickeln und Algorithmen verfeinern.</br>
+Mit Python lassen sich Webseiten bauen,</br>
+Apps entwickeln und Algorithmen verfeinern.</br>
     
-    Der Interpreter ist immer bereit,</br>
-    Den Code auszuführen, schnell und ohne Zeit.</br>
+Der Interpreter ist immer bereit,</br>
+Den Code auszuführen, schnell und ohne Zeit.</br>
     
-    Python ist eine Sprache, die nie ruht,</br>
-    Sie wird von vielen genutzt und nie verflucht.</br>
- </center>
+Python ist eine Sprache, die nie ruht,</br>
+Sie wird von vielen genutzt und nie verflucht.</br>
+
    
     
 by ChatGPT
