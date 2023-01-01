@@ -10,7 +10,8 @@
 - ⚡ Fun fact: i automated my girlfriend with a whatsapp python bot
 -->
 <i>
-##Python
+  <center>
+  <h2>Python</h2>
   
 
 Python, oh Python,</br>
@@ -35,3 +36,4 @@ And do all sorts of things.</br>
 
 by ChatGPT
 </i>
+</center>
