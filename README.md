@@ -13,27 +13,19 @@
   <center>
   <h2>Python</h2>
   
-
-Python, oh Python,</br>
-A language so fine,</br>
-With its simple syntax,</br>
-It's a joy to define.</br>
-
-Its libraries and modules,</br>
-So vast and so grand,</br>
-Allow me to build,</br>
-With just a single command.</br>
-
-From web development,</br>
-To data analysis so sweet,</br>
-Python can do it all,</br>
-With its power complete.</br>
-
-So here's to Python,</br>
-The language of kings,</br>
-It helps me to code,</br>
-And do all sorts of things.</br>
-
+    Python, die Sprache der Könige,</br>
+    Verarbeitet Daten schnell und ohne Widerstände.</br>
+    
+    Mit Python lassen sich Webseiten bauen,</br>
+    Apps entwickeln und Algorithmen verfeinern.</br>
+    
+    Der Interpreter ist immer bereit,</br>
+    Den Code auszuführen, schnell und ohne Zeit.</br>
+    
+    Python ist eine Sprache, die nie ruht,</br>
+    Sie wird von vielen genutzt und nie verflucht.</br>
+ </center>
+   
+    
 by ChatGPT
 </i>
-</center>
