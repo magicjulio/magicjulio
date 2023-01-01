@@ -9,28 +9,29 @@
 - 😄 Pronouns: he /him
 - ⚡ Fun fact: i automated my girlfriend with a whatsapp python bot
 -->
+<i>
+##Python
+  
 
-##<i> Python
+Python, oh Python,</br>
+A language so fine,</br>
+With its simple syntax,</br>
+It's a joy to define.</br>
 
-Python, oh Python,
-A language so fine,
-With its simple syntax,
-It's a joy to define.
+Its libraries and modules,</br>
+So vast and so grand,</br>
+Allow me to build,</br>
+With just a single command.</br>
 
-Its libraries and modules,
-So vast and so grand,
-Allow me to build,
-With just a single command.
+From web development,</br>
+To data analysis so sweet,</br>
+Python can do it all,</br>
+With its power complete.</br>
 
-From web development,
-To data analysis so sweet,
-Python can do it all,
-With its power complete.
-
-So here's to Python,
-The language of kings,
-It helps me to code,
-And do all sorts of things.
+So here's to Python,</br>
+The language of kings,</br>
+It helps me to code,</br>
+And do all sorts of things.</br>
 
 by ChatGPT
 </i>
