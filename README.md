@@ -5,7 +5,7 @@
 
 
 <p>
-  <i><strong>hilosopher/Hacker/Writer/Programmer/Magican/WebDev/Nihilist</strong></i>
+  <i><strong>Iam a Philosopher/Hacker/Writer/Programmer/Magican/WebDev/Nihilist</strong></i>
 </p>
 
 
