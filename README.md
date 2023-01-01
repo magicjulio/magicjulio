@@ -1,12 +1,15 @@
 <html>
 <head>
-<link href='https://fonts.googleapis.com/css?family=Impact' rel='stylesheet'>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Sevillana&display=swap" rel="stylesheet">
+  <link rel="stylesheet" type="text/css" href="style.css">
 </head>
 <body>
 ### Hello there
 
 
-<link rel="stylesheet" type="text/css" href="style.css">
+
 <p>
 Julius Iam a Philosopher/Hacker/Writer/Programmer/Magican/WebDev/Nihilist
 </p>
