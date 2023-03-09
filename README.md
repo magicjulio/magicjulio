@@ -10,7 +10,7 @@
 
 
 - 🔭 I’m currently working on some Python Project
-- 🌱 I’m currently learning Ethical hacking
+- 🌱 I’m currently learning Kotlin, Kivy and android app dev
 - 💬 Ask me about python
 - 📫 How to reach me: julius@grossero.de
 - 😄 Pronouns: he /him
